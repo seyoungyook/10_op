@@ -5,8 +5,8 @@
 
 int main(void) {
 	
-	int i;
-	char c;
+	int i=10;
+	char c='a';
 	
 	int *iptr;
 	iptr=&i;
